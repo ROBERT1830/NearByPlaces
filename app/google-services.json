@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091838391583",
+    "project_id": "nearbyapp-aa7e9",
+    "storage_bucket": "nearbyapp-aa7e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091838391583:android:67f869e3f65eaaeab2ac2a",
+        "android_client_info": {
+          "package_name": "com.robertconstantindinescu.nearbyplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091838391583-90ud88dhgbu6tpskh6f0jrgnonjvu8qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robertconstantindinescu.nearbyplaces",
+            "certificate_hash": "5a3ebab4d9c0f9164ab1a8a7bdad65d17981326b"
+          }
+        },
+        {
+          "client_id": "1091838391583-l4altjadv9n7o9kqotrqg2j81iuh10fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQOiLyPU2KU529RQNsEMz8-Jxs0QOjos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091838391583-l4altjadv9n7o9kqotrqg2j81iuh10fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

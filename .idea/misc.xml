@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.2953703703703704" />
+        <entry key="app/src/main/res/drawable-v24/edittext_background.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_atm.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_back.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_bookmark.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_bookmarked.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_camera.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_car_wash.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_direction.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_edit.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_email_filled.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_location.xml" value="0.4444444444444444" />
+        <entry key="app/src/main/res/drawable-v24/map_background.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/font/playfair_display.xml" value="0.5846153846153846" />
+        <entry key="app/src/main/res/layout/activity_direction.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_forget.xml" value="0.3765625" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.19594594594594594" />
+        <entry key="app/src/main/res/layout/activity_loginactivity.xml" value="0.40443840579710144" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.29128440366972475" />
+        <entry key="app/src/main/res/layout/activity_sign_up_choose_usr.xml" value="0.44882246376811596" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/bottom_sheet_layout.xml" value="0.40443840579710144" />
+        <entry key="app/src/main/res/layout/dialog_layout.xml" value="0.2866847826086957" />
+        <entry key="app/src/main/res/layout/fragment_email_change.xml" value="0.13304721030042918" />
+        <entry key="app/src/main/res/layout/fragment_email_confirmation.xml" value="0.15450643776824036" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_password_change.xml" value="0.13304721030042918" />
+        <entry key="app/src/main/res/layout/fragment_saved_place.xml" value="0.3229166666666667" />
+        <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.14015151515151514" />
+        <entry key="app/src/main/res/layout/header_layout.xml" value="0.40443840579710144" />
+        <entry key="app/src/main/res/layout/info_window_layout.xml" value="0.3188405797101449" />
+        <entry key="app/src/main/res/layout/navigation_drawer_layout.xml" value="0.3229166666666667" />
+        <entry key="app/src/main/res/layout/place_item_layout.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/saved_item_layout.xml" value="0.10632183908045977" />
+        <entry key="app/src/main/res/layout/step_item_layout.xml" value="0.4316123188405797" />
+        <entry key="app/src/main/res/layout/toolbar_layout.xml" value="0.40443840579710144" />
+        <entry key="app/src/main/res/layout/username_dialog_layout.xml" value="0.4316123188405797" />
+        <entry key="app/src/main/res/menu/map_type_menu.xml" value="0.5635416666666667" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.5548717948717948" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
